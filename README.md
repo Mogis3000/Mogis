@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TerasolsGuard
+- 👋 Hi, I’m @Mogis
 - 👀 I’m interested in networking, security, and programmability!
 - 🌱 I’m currently (slowly) learning python
 - 💞️ I’m looking to collaborate on great ways to learn to code.
